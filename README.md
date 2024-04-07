@@ -17,9 +17,10 @@
   •
   <a href="https://docs.applio.org" target="_blank">📚 Documentation</a>
   •
-  <a href="https://discord.gg/iahispano" target="_blank">☎️ Discord</a>
-<img src="https://img.shields.io/discord/1096877223765606521?style=flat-square">
-
+  <a href="https://discord.gg/iahispano">
+  <img src="https://img.shields.io/discord/1096877223765606521?style=flat-square" alt="Discord Server">
+</a>
+  •
 <p align="center">
   <a href="https://github.com/IAHispano/Applio-Plugins" target="_blank">🛒 Plugins</a>
   •
