@@ -22,8 +22,9 @@
   <img src="https://img.shields.io/discord/1096877223765606521?style=flat-square" alt="Discord Server">
 </a>
   •
-<p align="center">
-  <a href="https://github.com/IAHispano/Applio-Plugins" target="_blank">🛒 Plugins</a>
+  <a href="https://github.com/IAHispano/Applio-Plugins">
+  <img src="https://img.shields.io/badge/%F0%9F%8D%8F%20Applio%20Plugins-ffffff?style=flat-square&link=https://github.com/IAHispano/Applio-Plugins" alt="Applio Plugins">
+</a>
   •
   <a href="https://huggingface.co/IAHispano/Applio/tree/main/Compiled" target="_blank">📦 Compiled</a>
   •
