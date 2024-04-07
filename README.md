@@ -1,34 +1,28 @@
-<h1 align="center">
-  <a href="https://applio.org" target="_blank"><img src="https://github.com/Djekz/Applio/assets/133521603/a5cc5c72-ed68-48a5-954f-db9f1dc4e7de" alt="Applio"></a>
-</h1>
-  
-<a href="https://img.shields.io/github/release/iahispano/applio?style=for-the-badge&color=00AA68">
-  <img src="https://img.shields.io/github/contributors/iahispano/applio?style=for-the-badge&color=00AA68" alt="fork">
-</a>
+<p align="center">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/iahispano/applio?style=for-the-badge&color=00AA68" />
+    <img alt="Release" src="https://img.shields.io/github/release/iahispano/applio?style=for-the-badge&color=00AA68" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/iahispano/applio?style=for-the-badge&color=00AA68" />
+    <img alt="Fork" src="https://img.shields.io/github/forks/iahispano/applio?style=for-the-badge&color=00AA68" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/iahispano/applio?style=for-the-badge&color=00AA68" />
+</p>
 
   
   
 <p align="center">Voice cloning tool meticulously optimized for unrivaled power, modularity, and a user-friendly experience.</p>
 
-<p align="center">
-  <a href="https://applio.org" target="_blank">🌐 Website</a>
-  •
-  <a href="https://docs.applio.org" target="_blank">📚 Documentation</a>
-  •
-  <a href="https://discord.gg/iahispano">
-  <img src="https://img.shields.io/discord/1096877223765606521?style=flat-square" alt="Discord Server">
-</a>
-  •
-  <a href="https://github.com/IAHispano/Applio-Plugins">
-  <img src="https://img.shields.io/badge/%F0%9F%8D%8F%20Applio%20Plugins-ffffff?style=flat-square&link=https://github.com/IAHispano/Applio-Plugins" alt="Applio Plugins">
-</a>
-  •
-  <a href="https://huggingface.co/IAHispano/Applio/tree/main/Compiled" target="_blank">📦 Compiled</a>
-  •
-  <a href="https://applio.org/playground" target="_blank">🎮 Playground</a>
-  •
-  <a href="https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb" target="_blank">🔎 Google Colab</a>
-</p>
+[![🍏 Applio Plugins](https://img.shields.io/badge/%F0%9F%8D%8F%20Applio%20Plugins-ffffff?style=flat-square&link=https://github.com/IAHispano/Applio-Plugins)](https://github.com/IAHispano/Applio-Plugins)
+[![Compiled Versions](https://img.shields.io/badge/Compiled%20Versions-ffffff?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAALEsAACxLAaU9lqkAAAHzSURBVDhPrVFNaBNBFP5m9idJU9tE2srS5KSNlxT00AhSEEH01GMOIkpPBSmCehE99aIgVOrJgzdP6kE8qoQKEqmIV00PhRQ3jSbdTbRVm7rbnfHNJLV4lX7w3sx8733z3szDvkIIkQyCoEB2otls9vfof8B6q0a9Xu8b2V66bTSez7BguU+FhT3eQfb8Q549d4sxttVL3RNKKS3xaeEVX797GkOxHkuQZF4Ikb3zZjmcOJvP5wNFc+UUwrXFWd6Y1yK3YWlOadx12o9Y4O7cqZyDKzpA2BUy7j6bRprBWwsw/yTdLfTNwL3HaeBnB0gF4KtPp1WuEuwJ2cYYLAPDjokbF9rUOpA+IHDzYhtIUOsxCyxqjalcJdDCYrHIpLA7aPwAOiEW38dx+XoGM9cy+Lhiak7HWKKjcpVGu99+5ZL9buoR7BY9NkJE98nPo5AxCXP0C1USgGkAO8MIT76ctQ8efqAr8u+VY0ATMOg4EIcxYMMc92DlfLCkrTmYFBNfgY3Kca1RDiZdLah4PyWlEsAg2eZ219RecSomGZgRV//WbbVWq2UObb29b7RfT/FwxQZPIUoWlqQUkfHrwySTm0zauXBn6MyLVnLyquM4q0q3C14qlQY9z5uoVqtH6UyPovG57hHf9wvlcpnm8ncK/wvgD6Orstc1XrkKAAAAAElFTkSuQmCC&link=https://huggingface.co/IAHispano/Applio/tree/main/Compiled)](https://huggingface.co/IAHispano/Applio/tree/main/Compiled)
+![GitHub Release](https://img.shields.io/github/v/release/iahispano/applio-rvc-fork?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/iahispano/applio-rvc-fork?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/iahispano/applio-rvc-fork?style=flat-square)
+[![Support Discord](https://img.shields.io/discord/1096877223765606521?style=flat-square)](https://discord.gg/iahispano)
+[![Issues](https://img.shields.io/github/issues/iahispano/applio-rvc-fork?style=flat-square)](https://github.com/IAHispano/Applio-RVC-Fork/issues)
+[![Open In Collab](https://img.shields.io/badge/Open%20In%20Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/iahispano/applio/blob/master/assets/Applio.ipynb)
+[![Open In Applio](https://img.shields.io/badge/Open%20In%20Applio-ffffff?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAALEsAACxLAaU9lqkAAAHzSURBVDhPrVFNaBNBFP5m9idJU9tE2srS5KSNlxT00AhSEEH01GMOIkpPBSmCehE99aIgVOrJgzdP6kE8qoQKEqmIV00PhRQ3jSbdTbRVm7rbnfHNJLV4lX7w3sx8733z3szDvkIIkQyCoEB2otls9vfof8B6q0a9Xu8b2V66bTSez7BguU+FhT3eQfb8Q549d4sxttVL3RNKKS3xaeEVX797GkOxHkuQZF4Ikb3zZjmcOJvP5wNFc+UUwrXFWd6Y1yK3YWlOadx12o9Y4O7cqZyDKzpA2BUy7j6bRprBWwsw/yTdLfTNwL3HaeBnB0gF4KtPp1WuEuwJ2cYYLAPDjokbF9rUOpA+IHDzYhtIUOsxCyxqjalcJdDCYrHIpLA7aPwAOiEW38dx+XoGM9cy+Lhiak7HWKKjcpVGu99+5ZL9buoR7BY9NkJE98nPo5AxCXP0C1USgGkAO8MIT76ctQ8efqAr8u+VY0ATMOg4EIcxYMMc92DlfLCkrTmYFBNfgY3Kca1RDiZdLah4PyWlEsAg2eZ219RecSomGZgRV//WbbVWq2UObb29b7RfT/FwxQZPIUoWlqQUkfHrwySTm0zauXBn6MyLVnLyquM4q0q3C14qlQY9z5uoVqtH6UyPovG57hHf9wvlcpnm8ncK/wvgD6Orstc1XrkKAAAAAElFTkSuQmCC&link=https://applio.org/playground)](https://applio.org/playground)
+
+
+---
+
 
 ## Content Table
 - [**Installation**](#installation)
@@ -45,6 +39,10 @@
 
 ## Installation
 Download the latest version from [GitHub Releases](https://github.com/IAHispano/Applio-RVC-Fork/releases) or use the [Compiled Versions](https://huggingface.co/IAHispano/Applio/tree/main/Compiled).
+
+
+---
+
 
 ### Windows
 ```bash
@@ -118,6 +116,8 @@ These enhancements contribute to a more robust and scalable codebase, making the
 
 We appreciate all contributions ❤️
 
+---
+
 ## Credits
 - [ContentVec](https://github.com/auspicious3000/contentvec/) by auspicious3000
 - [HIFIGAN](https://github.com/jik876/hifi-gan) by jik876
@@ -133,6 +133,8 @@ We appreciate all contributions ❤️
 - [RVC_CLI](https://github.com/blaise-tk/RVC_CLI) by blaise-tk
 - [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) by RVC-Project
 - [Mangio-RVC-Fork](https://github.com/Mangio621/Mangio-RVC-Fork) by Mangio621
+
+---
 
 ### Contributors
 <a href="https://github.com/IAHispano/Applio/graphs/contributors" target="_blank">
