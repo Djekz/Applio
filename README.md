@@ -6,10 +6,7 @@
   <img src="https://img.shields.io/github/contributors/iahispano/applio?style=for-the-badge&color=00AA68" alt="fork">
 </a>
 
-  <img alt="Stars" src="https://img.shields.io/github/stars/iahispano/applio?style=for-the-badge&color=00AA68" />
-    <img alt="Fork" src="https://img.shields.io/github/forks/iahispano/applio?style=for-the-badge&color=00AA68" />
-    <img alt="Issues" src="https://img.shields.io/github/issues/iahispano/applio?style=for-the-badge&color=00AA68" />
-</p>
+  
   
 <p align="center">Voice cloning tool meticulously optimized for unrivaled power, modularity, and a user-friendly experience.</p>
 
