@@ -47,7 +47,7 @@ my_applio = loadThemes.load_json()
 if my_applio:
     pass
 else:
-    my_applio = "ParityError/Interstellar"
+    my_applio = "Hev832/emerald"
 
 with gr.Blocks(theme=my_applio, title="Applio") as Applio:
     gr.Markdown("# Applio")
